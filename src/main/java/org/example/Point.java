@@ -3,6 +3,7 @@ package org.example;
 public class Point {
     private int x;
     private int y;
+    private int size;
 
     public Point(int x) {
         this.x = x;
