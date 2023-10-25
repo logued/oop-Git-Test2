@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Line 4");
         System.out.println("Other dev's line 5");
         System.out.println("line 8");
+        System.out.println("line 9");
     }
 }
