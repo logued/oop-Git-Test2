@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Other dev's line 5");
         System.out.println("line 8");
         System.out.println("line 9");
+        System.out.println("Friends change");
     }
 }
