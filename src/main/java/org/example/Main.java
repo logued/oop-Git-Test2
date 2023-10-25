@@ -13,5 +13,7 @@ public class Main {
         System.out.println("Friends change");
         System.out.println("SD2a - change 1");
         System.out.println("My change ");
+        System.out.println("buddies changes");
+
     }
 }
